@@ -1,1 +1,3 @@
 # MyCV
+
+![](MyCVpng.png)
